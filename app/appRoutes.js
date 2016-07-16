@@ -6,7 +6,7 @@ feastly.config(function($stateProvider, $urlRouterProvider) {
     //STATES
      .state('footer', {
       url: '',
-      templateUrl: '/Shared/Footer/footerview.html',
+      templateUrl: '/Shared/Footer/homeview.html',
     })
     .state('home', {
       url: '/home',
